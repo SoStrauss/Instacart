@@ -1,6 +1,6 @@
-# Instacard
+# Instacart
 ## Objective: 
-Python-coded initial data and exploratory analysis of Instacard ecommerce open source data to derive insights and suggest strategies for better segmentation and a targeted marketing strategy.
+Python-coded initial data and exploratory analysis of Instacart ecommerce open source data to derive insights and suggest strategies for better segmentation and a targeted marketing strategy.
 
 Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. My analysis informs  this strategy to ensure Instacart targets the right customer profiles with the appropriate products. My analyses answer the following
 ## Key questions:
