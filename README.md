@@ -14,6 +14,7 @@ Instacart stakeholders are most interested in the variety of customers in their 
 - source: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 09.09.2023.
 - [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 - Additional fictive customer data set created and included for learning purpose
+- original data sets made avaiable upon request
 
 ## Content of folders:
 1. **Project Management**
